@@ -1,6 +1,6 @@
 import React from 'react'
+import { Link } from 'react-router-dom';
 import Logo from "./Images/MF-logo.jpg";
-// import { Link } from "react-router-dom";
 
 export const Encabezado = () => {
   return (
@@ -12,10 +12,13 @@ export const Encabezado = () => {
         </a>
         <ul>
           <li>
-            <a href="./Images/FotoV.jpg">Inicio</a>
+            <Link to='/category/1'>Golsinas</Link>
           </li>
           <li>
-            <a href="/ItemListContainer">Productos</a>
+            <Link to='category/2'>Bastones</Link>
+          </li>
+          <li>
+            <Link to='category/3'>Pastillas</Link>
           </li>
         </ul>
         <div className="cart">
