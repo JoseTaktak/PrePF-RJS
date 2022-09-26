@@ -8,14 +8,14 @@ import 'boxicons';
 
 function App() {
   return (
-    <div className="App">
-      <Route>
+    <>
+      {/* <Route> */}
         <Encabezado />
-        <paginas />
+        {/* <paginas /> */}
         <ListadoProductos />
-      </Route>
+      {/* </Route> */}
       
-    </div>
+    </>
   );
 }
 

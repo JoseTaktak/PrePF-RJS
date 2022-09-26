@@ -12,10 +12,10 @@ export const Encabezado = () => {
         </a>
         <ul>
           <li>
-            <Link to="./Images/FotoV.jpg">Inicio</Link>
+            <a href="./Images/FotoV.jpg">Inicio</a>
           </li>
           <li>
-            <Link to="/ItemListContainer">Productos</Link>
+            <a href="/ItemListContainer">Productos</a>
           </li>
         </ul>
         <div className="cart">

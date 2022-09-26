@@ -20,7 +20,7 @@ export const ListadoProductos = () => {
         <div className="botton">
             <button className="btn">  Añadir al carrito </button>
             <div>
-                <a href="#" className="btn">Vista</a>
+                <a href="#" className="btn">Detalle</a>
             </div>
            </div>
         </div>
@@ -39,7 +39,7 @@ export const ListadoProductos = () => {
         <div className="botton">
             <button className="btn">  Añadir al carrito </button>
             <div>
-                <a href="#" className="btn">Vista</a>
+                <a href="#" className="btn">Detalle</a>
             </div>
            </div>
         </div>
@@ -58,7 +58,7 @@ export const ListadoProductos = () => {
         <div className="botton">
             <button className="btn">  Añadir al carrito </button>
             <div>
-                <a href="#" className="btn">Vista</a>
+                <a href="#" className="btn">Detalle</a>
             </div>
            </div>
         </div>
@@ -77,7 +77,7 @@ export const ListadoProductos = () => {
         <div className="botton">
             <button className="btn">  Añadir al carrito </button>
             <div>
-                <a href="#" className="btn">Vista</a>
+                <a href="#" className="btn">Detalle</a>
             </div>
            </div>
         </div>
